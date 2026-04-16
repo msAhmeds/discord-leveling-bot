@@ -28,3 +28,4 @@ A feature-rich Discord bot with an economy system, XP leveling, and mini-games b
 ```bash
 git clone https://github.com/your-username/discord-bot.git
 cd discord-bot
+pip install -r requirements.txt
